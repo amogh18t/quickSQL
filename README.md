@@ -1,6 +1,6 @@
-# SQL Code Web-App ![favicon](./favicon.ico)
+# quickSQL Web-App ![favicon](./favicon.ico)
 
-## 📘 Overview
+## Overview
 
 A SQL Editor built using Vite, React, and Tailwind CSS for a modern, responsive user experience.
 
@@ -21,13 +21,6 @@ Check out the live application here: ![favicon-16x16](favicon.ico)
 
 <br>
 
-## 🧑‍💻 Tech Stack
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-<br>
-
 ## ⚙️ Dependencies
 
 - **Code Editor**: React Ace Editor
@@ -36,16 +29,6 @@ Check out the live application here: ![favicon-16x16](favicon.ico)
 - **Table**: React Table
 - **Deployment**: Vercel
 - **Version Control**: GitHub
-
-<br>
-
-## ⚡ Performance
-
-The application scores a perfect 100 on Chrome Lighthouse, highlighting its excellence in performance, accessibility, best practices, and SEO. These metrics underscore the application's fast load times, efficient code practices, and user-centered design.
-
-![Performance](https://github.com/amogh18t/sql_editor/assets/76626284/3d91bf75-a3d7-408e-a4a3-a00f1e5b412d)
-
-![Performance_Scores](https://github.com/amogh18t/sql_editor/assets/76626284/1bcc0951-8325-4d3c-908e-0c56d38be862)
 
 <br>
 
@@ -89,6 +72,3 @@ npm run dev
 5. Open http://localhost:3000 (or the url mentioned in the console) to view it in the browser.
 
 <br>
-
-## 🖼️ Screenshot
-![SQL Editor](https://github.com/amogh18t/sql_editor/assets/76626284/e338d0bf-ad5b-46f4-bda1-c3ae4297e949)
