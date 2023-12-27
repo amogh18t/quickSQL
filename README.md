@@ -4,8 +4,8 @@
 
 A SQL Editor built using Vite, React, and Tailwind CSS for a modern, responsive user experience.
 
-Check out the live application here: ![favicon-16x16](https://github.com/amogh18t/sql_editor/assets/76626284/22abb920-5235-414b-a39e-54b949a65bdd) 
-  [SQL Editor App](https://sql-edit.vercel.app/#)
+Check out the live application here: ![favicon-16x16](favicon.ico) 
+  [SQL Editor App](https://quick-sql.vercel.app/)
 
 <br>
 
@@ -54,14 +54,6 @@ The application scores a perfect 100 on Chrome Lighthouse, highlighting its exce
 - **Code Splitting**: Implemented to load only the necessary code for each page view, reducing the initial load time.
 - **Lazy Loading**: Used for deferring the loading of non-critical resources at page load time.
 - **Efficient Asset Management**: Minified assets and images, leveraging caching for improved performance.
-
-<br>
-
-## 🎨 UI Design
-![figma](https://github.com/amogh18t/sql_editor/assets/76626284/a21f6592-6e28-4d53-b824-1170f5c1df8f)
-[Figma Link](https://www.figma.com/file/t96ioNm9eNfTqXZw40sZuE/Untitled?type=design&node-id=0%3A1&mode=design&t=mVlnzUa7mys9lU74-1)
-
-<br>
 
 ## 🔥 Installation
 
