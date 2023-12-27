@@ -57,7 +57,7 @@ The application scores a perfect 100 on Chrome Lighthouse, highlighting its exce
 
 ## 🔥 Installation
 
-This application does not require installation. It runs in a web browser and is accessible via the [deployed link](https://sql-edit.vercel.app/#).
+This application does not require installation. It runs in a web browser and is accessible via the [deployed link](https://quick-sql.vercel.app/#).
 
 <br>
 
@@ -67,13 +67,13 @@ To set up this project locally for development purposes, follow these steps:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/amogh18t/sql_editor.git
+git clone https://github.com/amogh18t/quick-sql.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd sql_editor
+cd quick-sql
 ```
 
 3. Install dependencies:
