@@ -1,7 +1,7 @@
 import { BiMoon, BiSun } from "react-icons/bi";
 import { useContext } from "react";
 
-import ThemeContext from "../context/ThemeContext";
+import ThemeContext from "../../context/ThemeContext";
 
 const ThemeIcon = () => {
     const { darkTheme, setDarkTheme } = useContext(ThemeContext);
@@ -26,13 +26,13 @@ const ThemeIcon = () => {
 function Navbar() {
     return (
         <>
-            <header className="bg-white flex sm:justify-between sm:flex-nowrap w-full text-sm py-4 border-2 border-solid border-indigo-50 dark:border-gray-700 dark:bg-gray-800">
-                <nav>
+            <header className="bg-white flex sm:justify-start sm:flex-nowrap w-full text-sm py-4 border-2 border-solid border-indigo-50 dark:border-gray-700 dark:bg-gray-800">
+                <nav className="w-full mx-auto px-4 sm:flex sm:items-center sm:justify-between">
                     <a
                         className="flex-none text-4xl font-semibold text-gray-900 dark:text-white"
                         href=""
                     >
-                        <span >SQL </span>Editor
+                        <span className="text-indigo-500">SQL </span>Editor
                     </a>
                 </nav>
                 <ThemeIcon />

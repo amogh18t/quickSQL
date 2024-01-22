@@ -8,7 +8,7 @@ function Sidebar({ children, isRightSideBar }) {
         <section
             className={`transition-width-300 flex flex-col ${isSideBarCollapsed ? "w-96" : "w-20"}
                 border-x-2 h-full relative
-                bg-white dark:bg-gray-800 border-indigo-50 dark:border-gray-700 `}
+                bg-white dark:bg-gray-800 border-indigo-50 dark:border-gray-700`}
         >
             <BiSolidChevronLeft
                 className={`z-10 text-2xl rounded-full absolute top-4 cursor-pointer
