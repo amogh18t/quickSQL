@@ -6,6 +6,10 @@ A SQL Editor built using Vite, React, and Tailwind CSS for a modern, responsive 
 
 Check out the live application here: ![favicon-16x16](favicon.ico) 
   [SQL Editor App](https://quick-sql.vercel.app/)
+![image](https://github.com/amogh18t/quickSQL/assets/75831661/619fd4d5-3468-4d8f-8858-f4530b4eaf81)
+![image](https://github.com/amogh18t/quickSQL/assets/75831661/38e00910-7cf1-413b-8be4-d9b0017d7a2d)
+![image](https://github.com/amogh18t/quickSQL/assets/75831661/87ed6589-3596-4e66-9793-62f0320b0031)
+
 
 <br>
 
